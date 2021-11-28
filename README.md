@@ -6,7 +6,7 @@ Welcome to Kitchen Office. This is a reataurant website. This repository contain
 
 ### Features:
 - Fully responsive full-stack app with firebase authentication.
--	Customers can add or remove meals from cart. They also able to increase or decrease quantity from cart.
+-	Customers can add or remove products from my orders. They also able to increase or decrease quantity from cart.
 - Customers can place order from checkout page and check their orders from orders page.
 
 
